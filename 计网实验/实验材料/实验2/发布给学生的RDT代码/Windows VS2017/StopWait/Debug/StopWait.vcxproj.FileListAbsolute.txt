@@ -1,0 +1,2 @@
+C:\Users\12204\Desktop\计网实验\实验材料\实验2\发布给学生的RDT代码\Windows VS2017\StopWait\Debug\StopWait.exe
+C:\Users\12204\Desktop\计网实验\实验材料\实验2\发布给学生的RDT代码\Windows VS2017\StopWait\Debug\StopWait.pdb
